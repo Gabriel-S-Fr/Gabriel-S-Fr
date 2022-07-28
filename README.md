@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil do Gabriel 😁
+## Bem-vindo(a) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, me chamo Gabriel
+
+ <ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"><img class="emoji" alt="placa de argamassa" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Estudando </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML, CSS, JavaScript e Pyton</font></font></strong></p>
+</li>
+</ul>
 
  <div>
    <a href="https://github.com/Gabriel-S-Fr">
