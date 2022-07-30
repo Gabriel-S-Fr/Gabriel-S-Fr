@@ -2,7 +2,7 @@
 
  <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"><img class="emoji" alt="placa de argamassa" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Estudando </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML, CSS, JavaScript e Pyton</font></font></strong></p>
+ Estudando HTML, CSS, JavaScript e Pyton
 </li>
 </ul>
 
@@ -13,7 +13,6 @@
    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-S-Fr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="max-width: 100%;">
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Fr&layout=compact&langs_count=6&theme=tokyonight" style="max-width: 100%;">
    
-
 
 </div>
 <div style="display: inline_block"><br>
