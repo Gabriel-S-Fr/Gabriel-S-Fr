@@ -1,3 +1,5 @@
+
+
 ## Bem-vindo(a) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, me chamo Gabriel
 
  <ul dir="auto">
@@ -6,7 +8,7 @@
 </li>
 </ul>
 
- ## GitHub Analytics  
+ ## <h2 align="center"> GitHub Analytics </h2> 
 
  <div>
    <a href="https://github.com/Gabriel-S-Fr">
@@ -23,7 +25,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ## <h2 align="center"> Minhas redes sociais! </h2>
  
 <div>
   <a href="https://twitter.com/GabrielSF251822" target=blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGabrielSF251822" target="_blank"></a>
